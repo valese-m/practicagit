@@ -34,3 +34,7 @@ View(coronavirus)
 ###Análisis
 
 str(coronavirus)
+
+
+##COMENTARIO: 16 DE ABRIL
+table(coronavirus)
